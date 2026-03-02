@@ -1,0 +1,30 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - heading "Search Console Explorer" [level=1] [ref=e6]
+          - paragraph [ref=e7]: Google Search Console keyword analysis for Arcadian Digital
+        - button "Toggle theme" [ref=e8]:
+          - img
+          - generic [ref=e9]: Toggle theme
+    - main [ref=e10]:
+      - generic [ref=e13]:
+        - img [ref=e15]
+        - generic [ref=e19]:
+          - heading "Google Search Console Data" [level=2] [ref=e20]
+          - paragraph [ref=e21]: Process raw GSC keyword and page data for Arcadian Digital
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - img
+            - text: 431K Rows
+          - generic [ref=e24]:
+            - img
+            - text: Keywords & Pages
+          - generic [ref=e25]:
+            - img
+            - text: 12 Months
+        - button "Process Data" [ref=e26]
+  - button "Open Next.js Dev Tools" [ref=e32] [cursor=pointer]:
+    - img [ref=e33]
+  - alert [ref=e36]

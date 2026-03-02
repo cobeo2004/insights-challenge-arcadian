@@ -1,0 +1,15 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - heading "Google Search Trends Explorer" [level=1] [ref=e5]
+        - paragraph [ref=e6]: 27K+ search trends across 84 countries (2001-2020)
+    - main [ref=e7]
+  - button "Open Next.js Dev Tools" [ref=e29] [cursor=pointer]:
+    - generic [ref=e32]:
+      - text: Compiling
+      - generic [ref=e33]:
+        - generic [ref=e34]: .
+        - generic [ref=e35]: .
+        - generic [ref=e36]: .
+  - alert [ref=e26]

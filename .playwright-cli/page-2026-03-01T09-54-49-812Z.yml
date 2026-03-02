@@ -1,0 +1,152 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - heading "Google Search Trends Explorer" [level=1] [ref=e5]
+        - paragraph [ref=e6]: 27K+ search trends across 84 countries (2001-2020)
+    - main [ref=e7]:
+      - generic [ref=e8]:
+        - generic [ref=e37]:
+          - generic [ref=e38]:
+            - generic [ref=e39]: Year
+            - combobox "Year" [ref=e40]:
+              - option "All Years" [selected]
+              - option "2001"
+              - option "2002"
+              - option "2003"
+              - option "2004"
+              - option "2005"
+              - option "2006"
+              - option "2007"
+              - option "2008"
+              - option "2009"
+              - option "2010"
+              - option "2011"
+              - option "2012"
+              - option "2013"
+              - option "2014"
+              - option "2015"
+              - option "2016"
+              - option "2017"
+              - option "2018"
+              - option "2019"
+              - option "2020"
+          - generic [ref=e41]:
+            - generic [ref=e42]: Location
+            - combobox "Location" [ref=e43]:
+              - option "All Locations" [selected]
+              - option "Argentina"
+              - option "Australia"
+              - option "Austria"
+              - option "Bangladesh"
+              - option "Belarus"
+              - option "Belgium"
+              - option "Brazil"
+              - option "Bulgaria"
+              - option "Canada"
+              - option "Chile"
+              - option "China"
+              - option "Colombia"
+              - option "Costa Rica"
+              - option "Croatia"
+              - option "Czechia"
+              - option "Denmark"
+              - option "Dominican Republic"
+              - option "Ecuador"
+              - option "Egypt"
+              - option "El Salvador"
+              - option "Estonia"
+              - option "Finland"
+              - option "France"
+              - option "Germany"
+              - option "Ghana"
+              - option "Global"
+              - option "Greece"
+              - option "Guatemala"
+              - option "Honduras"
+              - option "Hong Kong"
+              - option "Hungary"
+              - option "India"
+              - option "Indonesia"
+              - option "Ireland"
+              - option "Israel"
+              - option "Italy"
+              - option "Japan"
+              - option "Kazakhstan"
+              - option "Kenya"
+              - option "Kuwait"
+              - option "Latvia"
+              - option "Lithuania"
+              - option "Malaysia"
+              - option "Mexico"
+              - option "Myanmar (Burma)"
+              - option "Netherlands"
+              - option "New Zealand"
+              - option "Nigeria"
+              - option "Norway"
+              - option "Pakistan"
+              - option "Panama"
+              - option "Peru"
+              - option "Philippines"
+              - option "Poland"
+              - option "Portugal"
+              - option "Puerto Rico"
+              - option "Romania"
+              - option "Russia"
+              - option "Saudi Arabia"
+              - option "Senegal"
+              - option "Serbia"
+              - option "Singapore"
+              - option "Slovakia"
+              - option "Slovenia"
+              - option "South Africa"
+              - option "South Korea"
+              - option "Spain"
+              - option "Sri Lanka"
+              - option "Sudan"
+              - option "Sweden"
+              - option "Switzerland"
+              - option "Taiwan"
+              - option "Thailand"
+              - option "Turkey"
+              - option "Uganda"
+              - option "Ukraine"
+              - option "United Arab Emirates"
+              - option "United Kingdom"
+              - option "United States"
+              - option "Uruguay"
+              - option "Venezuela"
+              - option "Vietnam"
+              - option "Zimbabwe"
+          - generic [ref=e44]:
+            - generic [ref=e45]: Category
+            - combobox "Category" [ref=e46]
+        - generic [ref=e27]:
+          - generic [ref=e47]:
+            - heading "Top Search Trends" [level=3] [ref=e48]
+            - application [ref=e51]:
+              - generic [ref=e114]:
+                - generic [ref=e116]: Harry Potter
+                - generic [ref=e118]: Beatles
+                - generic [ref=e120]: CNN
+                - generic [ref=e122]: Anna Kournikova
+                - generic [ref=e124]: Counterstrike
+                - generic [ref=e126]: David Beckham
+                - generic [ref=e128]: The Simpsons
+                - generic [ref=e130]: Spiderman
+                - generic [ref=e132]: World Cup
+                - generic [ref=e134]: MP3
+                - generic [ref=e136]: The Simpsons
+                - generic [ref=e138]: Britney Spears
+          - generic [ref=e140]:
+            - generic [ref=e141]:
+              - heading "AI Insights" [level=3] [ref=e142]
+              - paragraph [ref=e143]: Ask questions about the trends data
+            - generic [ref=e145]: Ask a question to get AI-powered insights
+            - generic [ref=e147]:
+              - textbox "What trends stand out in this data?" [ref=e148]
+              - button "Ask" [disabled] [ref=e149]
+  - button "Open Next.js Dev Tools" [ref=e22] [cursor=pointer]:
+    - img [ref=e23]
+  - alert [ref=e26]
+  - generic [ref=e150]: MP3

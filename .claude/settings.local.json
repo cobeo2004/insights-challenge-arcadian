@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__query-docs",
+      "Bash(bun add:*)",
+      "Bash(bunx prisma:*)",
+      "Bash(grep:*)",
+      "Bash(npm info:*)",
+      "Bash(bun run:*)",
+      "Skill(playwright-cli)",
+      "Bash(curl:*)",
+      "Bash(bunx shadcn@latest:*)",
+      "Bash(bunx biome:*)",
+      "WebFetch(domain:v6.ai-sdk.dev)",
+      "WebFetch(domain:ai-sdk.dev)",
+      "Bash(git add:*)",
+      "Bash(python3:*)",
+      "Bash(bun remove:*)",
+      "Bash(xargs ls:*)"
+    ]
+  }
+}
